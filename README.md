@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Nicolás 👋
 
-<!--
-**ngonzz/ngonzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy un estudiante de Informática de Galicia, España. Me encanta programar, aprender nuevas tecnologías y compartir conocimientos.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy estudiando en IES Ramón Mª Aller Ulloa
+- 📌 He realizado el Ciclo Medio de SMR
+- 🌱 He realizado FCT en [O Informático](https://maps.app.goo.gl/VXbNAjojGeT9C2jc9)
+- 📫 Cómo contactarme: nicolasgondob@gmail.com
+- 🌐 [Mi página web](https://ngonzz.github.io/portfolio/)
+- 🌐 [Linktree](https://linktr.ee/nicolasgon2006)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades
+- Lenguajes de programación: HTML y CSS
+- Herramientas y tecnologías: Visual Studio Code, Moodle y WordPress
+- Nivel Básico en Desarrollo Web
+
+## 📈 Estadísticas de GitHub
+![Estadísticas de GitHub de @Nicolasgon2006](https://github-readme-stats.vercel.app/api?username=ngonzz&show_icons=true&theme=tokyonight)
