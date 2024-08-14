@@ -53,7 +53,7 @@ Me encanta programar, aprender nuevas tecnologías y compartir conocimientos.
 
 ## 📈 Estadísticas de GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngonzz&show_icons=true&locale=en&layout=compact" alt="ngonzz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngonzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="ngonzz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngonzz&show_icons=true&theme=tokyonight" alt="ngonzz" /></p>
 
