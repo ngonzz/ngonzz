@@ -34,3 +34,7 @@
 ## 📈 Estadísticas de GitHub
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngonzz&show_icons=true&locale=en&layout=compact" alt="ngonzz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngonzz&show_icons=true&theme=tokyonight" alt="ngonzz" /></p>
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
