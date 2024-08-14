@@ -1,6 +1,7 @@
 # Hola, soy Nicolás 👋
 
-Soy un estudiante de Informática de Galicia, España. Me encanta programar, aprender nuevas tecnologías y compartir conocimientos.
+Soy un estudiante de Informática de Galicia, España. 
+Me encanta programar, aprender nuevas tecnologías y compartir conocimientos.
 
 <br>
 
