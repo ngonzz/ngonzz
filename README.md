@@ -1,5 +1,6 @@
-<h1 align="center">Hola 👋, soy Nicolás González</h1>
-<h3 align="center">Soy un estudiante de Informática de Galicia, España.</h3>
+# Hola, soy Nicolás 👋
+
+Soy un estudiante de Informática de Galicia, España. Me encanta programar, aprender nuevas tecnologías y compartir conocimientos.
 
 <br>
 
