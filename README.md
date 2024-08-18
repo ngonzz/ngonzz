@@ -17,7 +17,7 @@ Me encanta programar, aprender nuevas tecnologías y compartir conocimientos.
   
 - 🌐 **[Mi página web](https://ngonzz.github.io/portfolio-2/)**
 
-- 🪙 **[Donar en BTC](bitcoin:bc1qps0erm9ee3j9lcd6l6z0vw3ls42fxzc7t2hhxm)**
+- 🪙 <a href="bitcoin:bc1qps0erm9ee3j9lcd6l6z0vw3ls42fxzc7t2hhxm">Donar en Bitcoin</a>
 
 
 ## 🛠️ Habilidades
